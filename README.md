@@ -49,8 +49,3 @@ OPENAI_API_KEY=your_key_here
 
 Run the app:
 streamlit run app.py
-
-
-
-<img width="1906" height="913" alt="AI Impact summit" src="https://github.com/user-attachments/assets/f7f163d0-920c-432d-bf12-8b64ef757861" />
-
