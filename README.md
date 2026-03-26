@@ -40,3 +40,17 @@ It uses a Retrieval-Augmented Generation (RAG) approach to provide context-aware
 ```bash
 git clone https://github.com/yourusername/ai-document-assistant.git
 cd ai-document-assistant
+
+Install dependencies
+pip install -r requirements.txt
+
+Create a .env file and add:
+OPENAI_API_KEY=your_key_here
+
+Run the app:
+streamlit run app.py
+
+
+
+<img width="1906" height="913" alt="AI Impact summit" src="https://github.com/user-attachments/assets/f7f163d0-920c-432d-bf12-8b64ef757861" />
+
